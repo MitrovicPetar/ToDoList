@@ -1,0 +1,20 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heder {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.task-container {
+    margin-top: 10px;
+}
+
+.editBtn {
+    width: 85px;
+    
+}
